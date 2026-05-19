@@ -7,6 +7,8 @@ A REST API that ingests financial documents (loan applications, bank statements,
 ## Features
 
 - [x] Project scaffolding and health endpoint
+- [x] PostgreSQL integration with JPA
+- [x] Document entity and CRUD REST API
 - [ ] PDF upload and text extraction (Day 3)
 - [ ] LLM-powered structured data extraction (Day 4)
 - [ ] Natural-language Q&A with RAG (Week 2)
@@ -22,11 +24,3 @@ A REST API that ingests financial documents (loan applications, bank statements,
 - Apache PDFBox for PDF text extraction
 - Spring Security with JWT
 - Docker
-
-## Status
-
-🚧 Active development. Started [today's date].
-
-## Local Setup
-
-Detailed setup instructions coming Day 7.
